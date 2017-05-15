@@ -13,4 +13,14 @@ The problem with P-control is overshooting
 
 ### Parameter tuning
 
-Tuning of the Kp,Ki,Kd parameters was manually done. I started increasing Kp first until the Car was overshooting then started to increase Kd to reduce that overshoot. The integral term was optional here so I tried Ki = 0.001 and it worked fine
+Tuning of the Kp,Ki,Kd parameters was manually done. I started increasing Kp first until the Car was overshooting then started to increase Kd to reduce that overshoot. The integral term was optional here so I tried Ki = 0.001 and it worked fine. At last the final parameters that worked for me was Kp = .15, Ki = 0.001 ,Kd = 1.0
+
+### Results
+
+The car can drive smoothly on the track as shown in the images below
+
+![ScreenShot] (/Screenshots/ss3.jpeg )
+
+![ScreenShot] (/Screenshots/ss2.jpeg )
+
+![ScreenShot] (/Screenshots/ss1.jpeg )
