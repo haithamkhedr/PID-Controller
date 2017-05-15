@@ -19,8 +19,8 @@ Tuning of the Kp,Ki,Kd parameters was manually done. I started increasing Kp fir
 
 The car can drive smoothly on the track as shown in the images below
 
-![ScreenShot] (/Screenshots/ss3.jpeg )
+![ScreenShot](/Screenshots/ss3.jpeg )
 
-![ScreenShot] (/Screenshots/ss2.jpeg )
+![ScreenShot](/Screenshots/ss2.jpeg )
 
-![ScreenShot] (/Screenshots/ss1.jpeg )
+![ScreenShot](/Screenshots/ss1.jpeg )
